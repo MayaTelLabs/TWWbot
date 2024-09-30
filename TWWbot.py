@@ -1,10 +1,9 @@
 # THE WEST WING - EVERY FRAME IN ORDER BOT
 # or, TWWBOT
-# Maya King - August 1st, 2024
+# Maya Ventura - August 1st, 2024
 # Based the now very decrepit MonogatariBot, from Spacebruce
 
-# in accordance with the original script, licensed under the Do What The Fuck You Want To Public License (Version 2, December 2004).
-# https://www.wtfpl.net/about/
+# licensed under the MayaTel Labs Standard License. https://github.com/MayaTelLabs/MSL
 
 # hi Liz. I know you'll be snooping around here. I love you a lot
 
